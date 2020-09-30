@@ -1,3 +1,12 @@
 [submodule "include/motivation"]
 	path = include/motivation
 	url = ../motivation
+[submodule "include/logos"]
+	path = include/logos
+	url = https://github.com/krr-up/logos.git
+[submodule "include/bibliography"]
+	path = include/bibliography
+	url = https://github.com/krr-up/bibliography.git
+[submodule "include/macros"]
+	path = include/macros
+	url = https://github.com/krr-up/asp-macros.git
