@@ -1,12 +1,23 @@
-\documentclass[t,fleqn]{beamer}
-
+\documentclass[t]{beamer}
+% ----------------------------------------------------------------------
 \usepackage[english]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath,amssymb,amstext}
+\usepackage{url}\urlstyle{tt}
 
+% ----------------------------------------------------------------------
+\input{macros/systems}
+
+% ----------------------------------------------------------------------
 \begin{document}
-
+\pgfdeclareimage[height=0.5cm]{potasscologo}{potassco_logo_lightblue}
+\logo{\pgfuseimage{potasscologo}}
+% ----------------------------------------------------------------------
+\input{motivation}
+% ----------------------------------------------------------------------
 \end{document}
+% ----------------------------------------------------------------------
+%
 %%% Local Variables:
 %%% mode: latex
 %%% TeX-master: t
