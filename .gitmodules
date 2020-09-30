@@ -1,0 +1,3 @@
+[submodule "include/motivation"]
+	path = include/motivation
+	url = ../motivation
