@@ -1,0 +1,30 @@
+\usetheme{Pittsburgh}
+\useinnertheme{rectangles}
+\mode<beamer>{\usecolortheme{albatross}}
+\mode<beamer>{\setbeamercolor{alerted text}{fg=yellow}}
+\mode<handout>{\usecolortheme{seagull}}
+\mode<handout>{\setbeamerfont{alerted text}{series=\bf}}
+\mode<handout>{\colorlet{alerted}{black}}
+\useoutertheme{infolines}
+\setbeamertemplate{navigation symbols}{\vspace{-7pt}} % to lower the logo
+\setbeamercovered{dynamic}
+\setbeamertemplate{bibliography item}[text]
+
+\AtBeginPart{
+  \begin{frame}{\insertpart: Overview}
+    \vfill
+    \tableofcontents[hideallsubsections]
+  \end{frame}
+}
+\AtBeginSection{
+  \begin{frame}{Outline}
+    \vfill
+    \tableofcontents[currentsection,hideallsubsections]
+  \end{frame}
+}
+\AtBeginSubsection{
+  \begin{frame}{Outline}
+    \vfill
+    \tableofcontents[currentsubsection,hideothersubsections]
+  \end{frame}
+}
