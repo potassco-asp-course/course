@@ -10,3 +10,9 @@
 [submodule "include/macros"]
 	path = include/macros
 	url = https://github.com/krr-up/asp-macros.git
+[submodule "include/organization"]
+	path = include/organization
+	url = ../organization
+[submodule "include/administration"]
+	path = include/administration
+	url = ../administration
