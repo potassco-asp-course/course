@@ -3,7 +3,10 @@
 \usepackage[english]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath,amssymb,amstext}
+\usepackage{biblatex}
 \usepackage{url}\urlstyle{tt}
+
+\bibliography{krr,procs} % https://github.com/krr-up/bibliography.git
 
 % ----------------------------------------------------------------------
 \input{macros/systems}
@@ -20,7 +23,9 @@
 \input{organization}
 % ------------------------------
 \input{motivation}
-% ----------------------------------------------------------------------
+% ------------------------------
+\printbibliography{}
+% ------------------------------
 \end{document}
 % ----------------------------------------------------------------------
 %
