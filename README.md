@@ -1,4 +1,4 @@
-# MSc course on Answer Set Programming
+# Course on Answer Set Programming
 
 The main repository integrating the LaTeX beamer-based slides for a MSc class on ASP
 
@@ -14,3 +14,14 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
 ## Style
 
 - use `itemize` environments with `\structure{}` rather than `description` environment
+
+## Production
+
+ 1. uncomment
+	1. `\includeonlylecture` and
+	2. `{<target>}`
+ 2. `latexmk main.tex`
+ 3. rename `main.pdf` into `<target>.pdf`
+ 4. undo above edits, `latexmk main.tex` again
+ 5. produce a release attaching both files
+ 6. link released files in webspace
