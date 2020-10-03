@@ -16,3 +16,6 @@
 [submodule "include/administration"]
 	path = include/administration
 	url = ../administration
+[submodule "include/systems"]
+	path = include/systems
+	url = ../systems
