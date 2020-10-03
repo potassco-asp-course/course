@@ -22,3 +22,6 @@
 [submodule "include/introduction"]
 	path = include/introduction
 	url = ../introduction
+[submodule "include/modeling"]
+	path = include/modeling
+	url = ../modeling
