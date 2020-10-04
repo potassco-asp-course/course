@@ -17,16 +17,18 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
 
 ## Production
 
- 1. uncomment
-	1. `\includeonlylecture` and
-	2. `{<target>,goodbye,bibliography}`
-	in `main.tex`
- 2. run `latexmk main.tex`
- 3. rename `main.pdf` into `<target>.pdf`
- 4. undo above edits, `latexmk main.tex` again
- 5. produce a release attaching both files
- 6. link released files in webspace
+1. uncomment
+   1. `\includeonlylecture` and
+   2. `{<target>,goodbye,bibliography}`
+   in `main.tex`
+2. run `latexmk main.tex`
+3. rename `main.pdf` into `<target>.pdf`
+4. undo above edits, `latexmk main.tex` again
+5. produce a release attaching both files
+6. link released files in webspace
 
 ## Videos
 
-	- <target>, Section N: <title>, Mst edition, WiSe2021
+- Format
+    - ASP, <target>, Section N: <title>, Mst edition, WiSe2021
+- https://youtube.com/c/Potassco-live
