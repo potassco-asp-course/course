@@ -26,3 +26,7 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
  4. undo above edits, `latexmk main.tex` again
  5. produce a release attaching both files
  6. link released files in webspace
+
+## Videos
+
+	- <target>, Section N: <title>, Mst edition, WiSe2021
