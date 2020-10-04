@@ -19,7 +19,7 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
 
  1. uncomment
 	1. `\includeonlylecture` and
-	2. `{<target>}`
+	2. `{<target>,goodbye,bibliography}`
 	in `main.tex`
  2. run `latexmk main.tex`
  3. rename `main.pdf` into `<target>.pdf`
