@@ -39,3 +39,8 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
   https://mediaup.uni-potsdam.de/Play/22938
 
   <iframe width="330" height="270" src="https://mediaup.uni-potsdam.de/player?autostart=n&videoId=gid8ej4c&captions=y&chapterId=0" frameborder="0" scrolling="no"  allowfullscreen></iframe>
+
+- ASP, organization, section 1: roadmap, 1st edition, WiSe2021
+  https://mediaup.uni-potsdam.de/Play/22939
+
+  <iframe width="330" height="270" src="https://mediaup.uni-potsdam.de/player?autostart=n&videoId=i6h6g0dc&captions=y&chapterId=0" frameborder="0" scrolling="no"  allowfullscreen></iframe>
