@@ -32,3 +32,10 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
 - Format
     - ASP, <target>, Section N: <title>, Mst edition, WiSe2021
 - https://youtube.com/c/Potassco-live
+
+### List of prodiced videos
+
+- ASP, organization, section 0: introduction, 1st edition, WiSe2021
+  https://mediaup.uni-potsdam.de/Play/22938
+
+  <iframe width="330" height="270" src="https://mediaup.uni-potsdam.de/player?autostart=n&videoId=gid8ej4c&captions=y&chapterId=0" frameborder="0" scrolling="no"  allowfullscreen></iframe>
