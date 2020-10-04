@@ -1,7 +1,19 @@
 % ----------------------------------------------------------------------
 \lecture{Bibliography}{bibliography}
 % ------------------------------
-\AtBeginPart{}
+\AtBeginPart{
+  \begin{frame}{\insertpart}
+    \bigskip
+    \begin{itemize}
+    \item The following list of references is compiled from the\\ open source bibliography available at
+      \medskip
+    \item [] \qquad\url{https://github.com/krr-up/bibliography}
+      \medskip
+    \item Feel free to submit corrections via pull requests\,!
+    \end{itemize}
+  \end{frame}
+}
+\AtBeginSection{}
 \part{Bibliography}
 % ----------------------------------------------------------------------
 \printbibliography{}
