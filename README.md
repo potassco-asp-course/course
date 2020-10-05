@@ -35,6 +35,8 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
 
 ### List of produced videos
 
+#### Organization
+
 - ASP, organization, section 0: introduction, 1st edition, WiSe2021
   https://mediaup.uni-potsdam.de/Play/22938
 
@@ -52,3 +54,8 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
 
 - ASP, organization, 1st edition, WiSe2021
   https://youtu.be/wDbXSEjcoKo
+  https://mediaup.uni-potsdam.de/Play/22965
+
+- Release https://github.com/potassco-asp-course/course/releases/tag/v1.0.0
+
+#### Motivation
