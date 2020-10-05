@@ -31,7 +31,7 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
 
 - Format
     - ASP, <target>, Section N: <title>, Mst edition, WiSe2021
-- https://youtube.com/c/Potassco-live
+- https://youtube.com/c/potassco-live
 
 ### List of produced videos
 
@@ -59,3 +59,5 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
 - Release [v1.0.0](https://github.com/potassco-asp-course/course/releases/tag/v1.0.0)
 
 #### Motivation
+
+- **in progress**
