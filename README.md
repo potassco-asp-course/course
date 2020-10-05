@@ -49,3 +49,6 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
 
 - ASP, organization, section 4: systems, 1st edition, WiSe2021
   https://mediaup.uni-potsdam.de/Play/22942
+
+- ASP, organization, 1st edition, WiSe2021
+  https://youtu.be/wDbXSEjcoKo
