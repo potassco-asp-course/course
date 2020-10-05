@@ -1,4 +1,4 @@
-# Course on Answer Set Programming
+# Course on Answer Set Solving in Practice
 
 The main repository integrating the LaTeX beamer-based slides for a MSc class on ASP
 
