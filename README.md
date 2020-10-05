@@ -59,3 +59,9 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
 - Release https://github.com/potassco-asp-course/course/releases/tag/v1.0.0
 
 #### Motivation
+
+## Next edition
+
+### Organization
+
+- start from potassco.org (after remake)
