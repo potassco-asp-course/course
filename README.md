@@ -68,6 +68,6 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
 
 - ASP, motivation, section 1: declarative problem solving, 1st edition, WiSe2021
   - https://youtu.be/gAOaGs_VjLk
-  - https://mediaup.uni-potsdam.de/Play/23002
+  - https://mediaup.uni-potsdam.de/Play/23005
 
 - **in progress**
