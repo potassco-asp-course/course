@@ -74,4 +74,8 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
   - https://youtu.be/y6K7gLbuHhY
   - https://mediaup.uni-potsdam.de/Play/23055
 
+- ASP, motivation, section 3: evolution, 1st edition, WiSe2021
+  - https://youtu.be/UdRHpX_CiUM
+  - https://mediaup.uni-potsdam.de/Play/23101
+
 - **in progress**
