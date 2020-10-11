@@ -82,5 +82,12 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
   - https://youtu.be/HjxyY1mWT7c
   - https://mediaup.uni-potsdam.de/Play/23103
 
+- ASP, motivation, section 5: workflow, 1st edition, WiSe2021
+  - https://youtu.be/4ZaVI36s6hs
+  - https://mediaup.uni-potsdam.de/Play/23104
+
+- ASP, motivation, section engine: engine, 1st edition, WiSe2021
+  -
+  -
 
 - **in progress**
