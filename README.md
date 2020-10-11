@@ -98,6 +98,8 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
   - https://youtu.be/R5yyiyb3edg
   - https://mediaup.uni-potsdam.de/Play/23107
 
+- Release [v1.1.0](https://github.com/potassco-asp-course/course/releases/tag/v1.1.0)
+
 #### Introduction
 
 - **in progress**
