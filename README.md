@@ -70,4 +70,36 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
   - https://youtu.be/gAOaGs_VjLk
   - https://mediaup.uni-potsdam.de/Play/23005
 
+- ASP, motivation, section 2: asp in a nutshell, 1st edition, WiSe2021
+  - https://youtu.be/y6K7gLbuHhY
+  - https://mediaup.uni-potsdam.de/Play/23055
+
+- ASP, motivation, section 3: evolution, 1st edition, WiSe2021
+  - https://youtu.be/UdRHpX_CiUM
+  - https://mediaup.uni-potsdam.de/Play/23101
+
+- ASP, motivation, section 4: foundations, 1st edition, WiSe2021
+  - https://youtu.be/HjxyY1mWT7c
+  - https://mediaup.uni-potsdam.de/Play/23103
+
+- ASP, motivation, section 5: workflow, 1st edition, WiSe2021
+  - https://youtu.be/4ZaVI36s6hs
+  - https://mediaup.uni-potsdam.de/Play/23104
+
+- ASP, motivation, section 6: engine, 1st edition, WiSe2021
+  - https://youtu.be/hOMIB9zdlCc
+  - https://mediaup.uni-potsdam.de/Play/23105
+
+- ASP, motivation, section 7: usage, 1st edition, WiSe2021
+  - https://youtu.be/KVVXFd8CuGM
+  - https://mediaup.uni-potsdam.de/Play/23106
+
+- ASP, motivation, section 8: summary, 1st edition, WiSe2021
+  - https://youtu.be/R5yyiyb3edg
+  - https://mediaup.uni-potsdam.de/Play/23107
+
+- Release [v1.1.0](https://github.com/potassco-asp-course/course/releases/tag/v1.1.0)
+
+#### Introduction
+
 - **in progress**

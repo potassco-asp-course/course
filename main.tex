@@ -6,6 +6,9 @@
 \usepackage{biblatex}
 \usepackage{url}\urlstyle{tt}
 
+\usepackage{listings}
+\lstset{basicstyle=\ttfamily,escapechar=\%,escapeinside={\#(}{\#)}}
+
 \usepackage{tikz}
 \usetikzlibrary{arrows,chains,positioning,automata,decorations,shapes,calc,matrix,fit,backgrounds} % CHECK!!
 % \usepackage{pgfpages}
@@ -14,6 +17,7 @@
 \bibliography{krr,procs} % https://github.com/krr-up/bibliography.git
 
 % ----------------------------------------------------------------------
+\input{macros/syntax}
 \input{macros/systems}
 \input{pifont-macros}
 %
@@ -22,8 +26,8 @@
 % ----------------------------------------------------------------------
 \includeonlylecture{%
 %organization%
-motivation%
-%introduction%
+%motivation%
+introduction%
 %modeling%
 %language%
 %extensions%
@@ -50,7 +54,7 @@ motivation%
 \input{organization}
 % ------------------------------
 \input{motivation}
-%\input{introduction}
+\input{introduction}
 %\input{modeling}
 % ------------------------------
 \input{goodbye}
