@@ -102,4 +102,16 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
 
 #### Introduction
 
+- ASP, introduction, section 0: introduction, 1st edition, WiSe2021
+  - https://youtu.be/_9dlDE1OsQA
+  - https://mediaup.uni-potsdam.de/Play/23477
+
+- ASP, introduction, section 1: syntax, 1st edition, WiSe2021
+  - https://youtu.be/d2FzfU_L2R8
+  - https://mediaup.uni-potsdam.de/Play/23491
+
+- ASP, introduction, section 1: semantics, 1st edition, WiSe2021
+  -
+  -
+
 - **in progress**
