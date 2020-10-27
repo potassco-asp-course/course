@@ -118,4 +118,12 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
   - https://youtu.be/nTGPLXhwI7s
   - https://mediaup.uni-potsdam.de/Play/23600
 
+- ASP, introduction, section 2: semantics, part III, 1st edition, WiSe2021
+  - https://youtu.be/2BpBHMoFAAQ
+  - https://mediaup.uni-potsdam.de/Play/23657
+
+- ASP, introduction, section 2: semantics, part IV, 1st edition, WiSe2021
+  - https://youtu.be/1rdwKemok7Y
+  - https://mediaup.uni-potsdam.de/Play/23659
+
 - **in progress**
