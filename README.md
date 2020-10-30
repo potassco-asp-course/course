@@ -141,4 +141,12 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
   - https://youtu.be/CWDA5QqEpf4 (FHD)
   - https://mediaup.uni-potsdam.de/Play/23672
 
+- ASP, introduction, section 3: reasoning, 1st edition, WiSe2021
+  - https://youtu.be/h3Ghk89pl1o
+  - https://mediaup.uni-potsdam.de/Play/24025
+
+- ASP, introduction, section 4: language, 1st edition, WiSe2021
+  - https://youtu.be/0jyrDi2-UhY
+  - https://mediaup.uni-potsdam.de/Play/24028
+
 - **in progress**
