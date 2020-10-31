@@ -149,4 +149,14 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
   - https://youtu.be/0jyrDi2-UhY
   - https://mediaup.uni-potsdam.de/Play/24028
 
+- ASP, introduction, section 5: variables, 1st edition, WiSe2021
+  - https://youtu.be/URcN0EEZoN4
+  - https://mediaup.uni-potsdam.de/Play/24046
+
+- ASP, introduction, section 6: summary, 1st edition, WiSe2021
+  - https://youtu.be/txlXNHs1rPo
+  - https://mediaup.uni-potsdam.de/Play/24045
+
+- Release [v1.2.2](https://github.com/potassco-asp-course/course/releases/tag/v1.2.2)
+
 - **in progress**
