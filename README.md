@@ -161,5 +161,8 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
 
 #### Basic modeling
 
+- ASP, modeling, section 0: introduction, 1st edition, WiSe2021
+  - https://youtu.be/xuNQF04tqD0
+  - https://mediaup.uni-potsdam.de/Play/24088
 
 - **in progress**
