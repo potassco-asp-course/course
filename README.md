@@ -165,4 +165,16 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
   - https://youtu.be/xuNQF04tqD0
   - https://mediaup.uni-potsdam.de/Play/24088
 
+- ASP, modeling, section 1: elaboration, 1st edition, WiSe2021
+  - https://youtu.be/_is_x-eaFEM
+  - https://mediaup.uni-potsdam.de/Play/24097
+
+- ASP, modeling, section 2: workflow, 1st edition, WiSe2021
+  - https://youtu.be/cnvjafmJTVc
+  - https://mediaup.uni-potsdam.de/Play/24099
+
+- ASP, modeling, section 3: methodology, 1st edition, WiSe2021
+  - https://youtu.be/7HciHpz1dHo
+  - https://mediaup.uni-potsdam.de/Play/24100
+
 - **in progress**
