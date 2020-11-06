@@ -179,11 +179,11 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
 
 - ASP, modeling, section 4: cases, part 0 (introduction), 1st edition, WiSe2021
   - https://youtu.be/j1YPqsdSUxA
-  -
+  - https://mediaup.uni-potsdam.de/Play/24628
 
 - ASP, modeling, section 4: cases, part 1 (sat), 1st edition, WiSe2021
   - https://youtu.be/BI7ZzDAO2uY
-  -
+  - https://mediaup.uni-potsdam.de/Play/24630
 
 - ASP, modeling, section 4: cases, part 2 (queens), 1st edition, WiSe2021
   - https://youtu.be/EnLHTnAIiss
