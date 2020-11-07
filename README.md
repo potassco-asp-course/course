@@ -193,16 +193,20 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
   - https://youtu.be/H6PsxX_mnYk
   - https://mediaup.uni-potsdam.de/Play/24771
 
-- ASP, modeling, section 4: cases, part 4 (reviewer), 1st edition, WiSe2021
+- ASP, modeling, section 4: cases, part 4 (assignment), 1st edition, WiSe2021
   - https://youtu.be/WjwHWoMIydo
   - https://mediaup.uni-potsdam.de/Play/24790
 
 - ASP, modeling, section 4: cases, part 5 (planning), 1st edition, WiSe2021
   - https://youtu.be/Rn-jPtQjFro
-  -
+  - https://mediaup.uni-potsdam.de/Play/24792
 
 - ASP, modeling, section 5: summary, 1st edition, WiSe2021
   - https://youtu.be/52-LWJO6gTM
-  -
+  - https://mediaup.uni-potsdam.de/Play/24794
+
+- Release [v1.3.1](https://github.com/potassco-asp-course/course/releases/tag/v1.3.1)
+
+#### To Come
 
 - **in progress**
