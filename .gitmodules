@@ -25,3 +25,6 @@
 [submodule "include/modeling"]
 	path = include/modeling
 	url = ../modeling
+[submodule "include/language"]
+	path = include/language
+	url = ../language
