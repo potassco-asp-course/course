@@ -207,6 +207,34 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
 
 - Release [v1.3.1](https://github.com/potassco-asp-course/course/releases/tag/v1.3.1)
 
-#### To Come
+#### Language
 
-- **in progress**
+- play list https://www.youtube.com/playlist?list=PL7DBaibuDD9PeXzX7mExyVADcMU9b8eJ1
+
+- ASP, language, section 0: introduction, 1st edition, WiSe2021
+  - https://youtu.be/mhUJnWd3qOU
+  - https://mediaup.uni-potsdam.de/Play/25576
+
+- ASP, language, section 1: base (introduction), 1st edition, WiSe2021
+  - https://youtu.be/V-y17OOEhpQ
+  - https://mediaup.uni-potsdam.de/Play/25577
+
+- ASP, language, section 1: base (integrity constraints), 1st edition, WiSe2021
+  - https://youtu.be/BrFJJrCOP_Q
+  - https://mediaup.uni-potsdam.de/Play/25584
+
+- ASP, language, section 1: base (choice rules), 1st edition, WiSe2021
+  - https://youtu.be/C8GYRVs8iH0
+  - https://mediaup.uni-potsdam.de/Play/25583
+
+- ASP, language, section 1: base (cardinality rules), 1st edition, WiSe2021
+  - https://youtu.be/GM_FVxbHQUc
+  - https://mediaup.uni-potsdam.de/Play/25590
+
+- ASP, language, section 1: base (weight rules), 1st edition, WiSe2021
+  - https://youtu.be/h3dJhOS2Enc
+  - https://mediaup.uni-potsdam.de/Play/25591
+
+- ASP, language, section 1: base (conditional literals), 1st edition, WiSe2021
+  - https://youtu.be/I6OInwEi-eg
+  - https://mediaup.uni-potsdam.de/Play/25591
