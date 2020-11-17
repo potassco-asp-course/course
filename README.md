@@ -146,8 +146,11 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
   - https://mediaup.uni-potsdam.de/Play/24025
 
 - ASP, introduction, section 4: language, 1st edition, WiSe2021
-  - https://youtu.be/0jyrDi2-UhY
-  - https://mediaup.uni-potsdam.de/Play/24028
+  - https://youtu.be/0jyrDi2-UhY (BUGGY)
+  - https://mediaup.uni-potsdam.de/Play/24028 (BUGGY)
+- ASP, introduction, section 4: language, 2nd edition, WiSe2021
+  - https://youtu.be/p9oiyabH6yo
+  - https://mediaup.uni-potsdam.de/Play/25748
 
 - ASP, introduction, section 5: variables, 1st edition, WiSe2021
   - https://youtu.be/URcN0EEZoN4
@@ -238,3 +241,7 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
 - ASP, language, section 1: base (conditional literals), 1st edition, WiSe2021
   - https://youtu.be/I6OInwEi-eg
   - https://mediaup.uni-potsdam.de/Play/25591
+
+- ASP, language, section 2: optimization, 1st edition, WiSe2021
+  - https://youtu.be/_CgTpOJ3W88
+  - https://mediaup.uni-potsdam.de/Play/25741
