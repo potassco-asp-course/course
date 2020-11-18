@@ -248,8 +248,8 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
 
 - ASP, language, section 3: formats (introduction), 1st edition, WiSe2021
   - https://youtu.be/MwYVBefVBF8
-  -
+  - https://mediaup.uni-potsdam.de/Play/25902
 
 - ASP, language, section 3: formats (input, terms and literals), 1st edition, WiSe2021
   - https://youtu.be/CtmJdSn4-k0
-  -
+  - https://mediaup.uni-potsdam.de/Play/25904
