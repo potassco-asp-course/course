@@ -269,3 +269,5 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
 - ASP, language, section 4: summary, 1st edition, WiSe2021
   - https://youtu.be/OVSFZFkaJ3o
   - https://mediaup.uni-potsdam.de/Play/26010
+
+- Release [v1.4.1](https://github.com/potassco-asp-course/course/releases/tag/v1.4.1)
