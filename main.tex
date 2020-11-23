@@ -4,10 +4,14 @@
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath,amssymb,amstext}
 \usepackage{biblatex}
-\usepackage{url}\urlstyle{tt}
+\usepackage{url}
+\urlstyle{tt}
 
 \usepackage{listings}
 \lstset{basicstyle=\ttfamily,escapechar=\%,escapeinside={\#(}{\#)}}
+
+\usepackage{xcolor}
+\colorlet{comment}{white!60!black}
 
 \usepackage{tikz}
 \usetikzlibrary{arrows,chains,positioning,automata,decorations,shapes,calc,matrix,fit,backgrounds} % CHECK!!
@@ -32,6 +36,7 @@
 \input{macros/systems}
 \input{macros/grounding}
 \input{pifont-macros}
+\input{algorithm-keywords}
 %
 \usepackage{beamer-patch}
 \input{beamer-config}
