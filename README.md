@@ -272,3 +272,37 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
   - https://mediaup.uni-potsdam.de/Play/26010
 
 - Release [v1.4.1](https://github.com/potassco-asp-course/course/releases/tag/v1.4.1)
+
+#### Extensions
+
+- *no videos*
+
+#### Grounding
+
+- ASP, grounding, section 1: introduction, 1st edition, WiSe2021
+  - https://youtu.be/KWx6VDmLdFY
+  - https://mediaup.uni-potsdam.de/Play/26810
+
+- ASP, grounding, section 2: naive grounding, 1st edition, WiSe2021
+  - https://youtu.be/LpuvP3Mfskg
+  - https://mediaup.uni-potsdam.de/Play/26811
+
+- ASP, grounding, section 3: bottom-up grounding, 1st edition, WiSe2021
+  -
+  -
+
+- ASP, grounding, section 4: semi-naive grounding, 1st edition, WiSe2021
+  -
+  -
+
+- ASP, grounding, section 5: on-the-fly simplifications, 1st edition, WiSe2021
+  -
+  -
+
+- ASP, grounding, section 6: rule instantiation, 1st edition, WiSe2021
+  -
+  -
+
+- ASP, grounding, section 7: summary, 1st edition, WiSe2021
+  -
+  -
