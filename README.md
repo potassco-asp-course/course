@@ -292,12 +292,12 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
   - https://mediaup.uni-potsdam.de/Play/26844
 
 - ASP, grounding, section 4: semi-naive grounding, 1st edition, WiSe2021
-  -
-  -
+  - https://youtu.be/my4qUyYPnQo
+  - n/a
 
 - ASP, grounding, section 5: on-the-fly simplifications, 1st edition, WiSe2021
-  -
-  -
+  - https://youtu.be/pMu1ElXkaIQ
+  - https://mediaup.uni-potsdam.de/Play/27515
 
 - ASP, grounding, section 6: rule instantiation, 1st edition, WiSe2021
   -
