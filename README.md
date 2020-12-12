@@ -307,4 +307,4 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
 
 - ASP, grounding, section 7: summary, 1st edition, WiSe2021
   - https://youtu.be/tVnATIASgcY
-  -
+  - https://mediaup.uni-potsdam.de/Play/28227
