@@ -303,7 +303,7 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
 
 - ASP, grounding, section 6: rule instantiation, 1st edition, WiSe2021
   - https://youtu.be/I9T4IlpJDf8
-  -
+  - https://mediaup.uni-potsdam.de/Play/28225
 
 - ASP, grounding, section 7: summary, 1st edition, WiSe2021
   - https://youtu.be/tVnATIASgcY
