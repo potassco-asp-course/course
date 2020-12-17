@@ -32,7 +32,7 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
 - Format
     - ASP, <target>, Section N: <title>, Mst edition, WiSe2021
 - https://youtube.com/c/potassco-live
-- Text for lists: Length:  - Slides and more at teaching.potassco.org
+- Text for lists: Length:  - Slides and more at https://teaching.potassco.org
 
 ### List of produced videos
 
