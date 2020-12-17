@@ -308,3 +308,15 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
 - ASP, grounding, section 7: summary, 1st edition, WiSe2021
   - https://youtu.be/tVnATIASgcY
   - https://mediaup.uni-potsdam.de/Play/28227
+
+#### Computation
+
+- play list https://youtube.com/playlist?list=PL7DBaibuDD9NbVx8aleanvEAyVRYmvUST hms
+
+- ASP, computational aspects, section 0: introduction, 1st edition, WiSe2021
+  - https://youtu.be/IM_Cxf8aFL8
+  - https://mediaup.uni-potsdam.de/Play/28539
+
+- ASP, computational aspects, section 1: consequence operator, 1st edition, WiSe2021
+  - https://youtu.be/Uku4yruGP0g
+  - https://mediaup.uni-potsdam.de/Play/28543
