@@ -320,3 +320,11 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
 - ASP, computational aspects, section 1: consequence operator, 1st edition, WiSe2021
   - https://youtu.be/Uku4yruGP0g
   - https://mediaup.uni-potsdam.de/Play/28543
+
+- ASP, computational aspects, section 2: smodels, 1st edition, WiSe2021
+  -
+  -
+
+- ASP, computational aspects, blue board: smodels, 1st edition, WiSe2021
+  - https://youtu.be/MByOSDjf3vQ
+  -
