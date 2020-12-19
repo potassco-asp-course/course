@@ -311,7 +311,7 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
 
 #### Computation
 
-- play list https://youtube.com/playlist?list=PL7DBaibuDD9NbVx8aleanvEAyVRYmvUST hms
+- play list https://youtube.com/playlist?list=PL7DBaibuDD9NbVx8aleanvEAyVRYmvUST 58m56s
 
 - ASP, computational aspects, section 0: introduction, 1st edition, WiSe2021
   - https://youtu.be/IM_Cxf8aFL8
@@ -322,9 +322,17 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
   - https://mediaup.uni-potsdam.de/Play/28543
 
 - ASP, computational aspects, section 2: smodels, 1st edition, WiSe2021
-  -
+  - https://youtu.be/UE33COVv0ws
   -
 
 - ASP, computational aspects, blue board: smodels, 1st edition, WiSe2021
   - https://youtu.be/MByOSDjf3vQ
+  -
+
+- ASP, computational aspects, section 3: complexity, 1st edition, WiSe2021
+  - https://youtu.be/tm98EfdwGj8
+  -
+
+- ASP, computational aspects, section 4: summary, 1st edition, WiSe2021
+  - https://youtu.be/5Aud3gkE82U
   -
