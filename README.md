@@ -29,4 +29,4 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
 
 ## Videos
 
-Moved the list of videos to [VIDEO.md](VIDEO.md)
+Moved the list of videos to [VIDEO.md](https://github.com/potassco-asp-course/course/blob/main/VIDEO.md)
