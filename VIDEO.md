@@ -307,3 +307,25 @@
 - ASP, computational aspects, section 4: summary, 1st edition, WiSe2021
   - https://youtu.be/5Aud3gkE82U
   - https://mediaup.uni-potsdam.de/Play/28700
+
+#### Axiomatic characterization
+
+- play list https://youtube.com/playlist?list=PL7DBaibuDD9P_bClrNMkTC9X71oqGOMiA
+
+- yt Answer set solving in practice, axiomatic characterization,
+
+- ASP, axiomatic characterization, section 0: introduction, 1st edition, WiSe2021
+  - https://youtu.be/7HGHNq8UclE
+  - https://mediaup.uni-potsdam.de/Play/28738
+
+- ASP, axiomatic characterization, section 1: completion, 1st edition, WiSe2021
+  - https://youtu.be/UdKQSfKl9nk
+  -
+
+- ASP, axiomatic characterization, section 2: tightness, 1st edition, WiSe2021
+  - https://youtu.be/ahzqXCXJ-dg
+  -
+
+- ASP, axiomatic characterization, section 3: loops, 1st edition, WiSe2021
+  -
+  -
