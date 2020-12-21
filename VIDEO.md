@@ -320,11 +320,11 @@
 
 - ASP, axiomatic characterization, section 1: completion, 1st edition, WiSe2021
   - https://youtu.be/UdKQSfKl9nk
-  -
+  - https://mediaup.uni-potsdam.de/Play/28740
 
 - ASP, axiomatic characterization, section 2: tightness, 1st edition, WiSe2021
   - https://youtu.be/ahzqXCXJ-dg
-  -
+  - https://mediaup.uni-potsdam.de/Play/28741
 
 - ASP, axiomatic characterization, section 3: loops, 1st edition, WiSe2021
   -
