@@ -310,7 +310,7 @@
 
 #### Axiomatic characterization
 
-- play list https://youtube.com/playlist?list=PL7DBaibuDD9P_bClrNMkTC9X71oqGOMiA
+- play list https://youtube.com/playlist?list=PL7DBaibuDD9P_bClrNMkTC9X71oqGOMiA 1h20m15s
 
 - yt Answer set solving in practice, axiomatic characterization,
 
