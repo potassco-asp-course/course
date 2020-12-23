@@ -330,6 +330,6 @@
   - https://youtu.be/6A5KUAbVaDw
   -
 
-- ASP, axiomatic characterization, section 3: summary, 1st edition, WiSe2021
+- ASP, axiomatic characterization, section 4: summary, 1st edition, WiSe2021
   - https://youtu.be/k3SJmh9-geM
   -
