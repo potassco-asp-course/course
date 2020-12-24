@@ -328,8 +328,8 @@
 
 - ASP, axiomatic characterization, section 3: loops, 1st edition, WiSe2021
   - https://youtu.be/6A5KUAbVaDw
-  -
+  - https://mediaup.uni-potsdam.de/Play/28878
 
 - ASP, axiomatic characterization, section 4: summary, 1st edition, WiSe2021
   - https://youtu.be/k3SJmh9-geM
-  -
+  - https://mediaup.uni-potsdam.de/Play/28879
