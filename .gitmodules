@@ -46,3 +46,6 @@
 [submodule "include/proof-theoretic-characterization"]
 	path = include/proof-theoretic-characterization
 	url = ../proof-theoretic-characterization
+[submodule "include/solving"]
+	path = include/solving
+	url = ../solving
