@@ -25,6 +25,8 @@
 \SetAlFnt{\small}
 \setlength{\algomargin}{2ex}
 
+\newcommand{\sigmaAUX}{\rho} % FIX
+
 \usepackage[normalem]{ulem}
 
 \bibliography{krr,procs} % https://github.com/krr-up/bibliography.git
@@ -43,7 +45,7 @@
 \usepackage{beamer-patch}
 \input{beamer-config}
 % ----------------------------------------------------------------------
-%\includeonlylecture{%
+\includeonlylecture{%
 %organization%
 %motivation%
 %introduction%
@@ -55,14 +57,14 @@
 %acharacterization,%
 %ocharacterization%
 %pcharacterization%
-%solving%
+solving%
 %msolving%
 %tsolving%
 %hsolving%
 %systems%
 %encoding%
 %preferences%
-%,goodbye,bibliography}
+,goodbye,bibliography}
 % ----------------------------------------------------------------------
 \begin{document}
 % ----------------------------------------------------------------------
