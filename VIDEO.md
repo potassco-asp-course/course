@@ -346,7 +346,7 @@
 
 - ASP, operational characterization, section 0: introduction, 1st edition, WiSe2021
   - https://youtu.be/IArrXv-8AmI
-  -
+  - https://mediaup.uni-potsdam.de/Play/29115
 
 - ASP, operational characterization, section 1: fitting operator, 1st edition, WiSe2021
   - https://youtu.be/6EK8OqIQJ60
