@@ -337,3 +337,26 @@
 - ASP, axiomatic characterization, section 4: summary, 1st edition, WiSe2021
   - https://youtu.be/k3SJmh9-geM
   - https://mediaup.uni-potsdam.de/Play/28879
+
+#### Operational characterization
+
+- play list https://youtube.com/playlist?list=PL7DBaibuDD9NkCfCqvMGt9VQXujGg56Wf
+
+- yt Answer set solving in practice, operational characterization,
+
+- ASP, operational characterization, section 0: introduction, 1st edition, WiSe2021
+  - https://youtu.be/IArrXv-8AmI
+  -
+
+- ASP, operational characterization, section 1: fitting operator, 1st edition, WiSe2021
+  - https://youtu.be/6EK8OqIQJ60
+  -
+
+- ASP, operational characterization, section 2: unfounded sets, 1st edition, WiSe2021
+  -
+
+- ASP, operational characterization, section 3: well-founded operator, 1st edition, WiSe2021
+  -
+
+- ASP, operational characterization, section 4: summary, 1st edition, WiSe2021
+  -
