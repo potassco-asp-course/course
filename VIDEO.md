@@ -350,7 +350,7 @@
 
 - ASP, operational characterization, section 1: fitting operator, 1st edition, WiSe2021
   - https://youtu.be/6EK8OqIQJ60
-  -
+  - https://mediaup.uni-potsdam.de/Play/29142
 
 - ASP, operational characterization, section 2: unfounded sets, 1st edition, WiSe2021
   -
