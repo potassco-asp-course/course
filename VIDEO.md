@@ -370,3 +370,8 @@
 
 - ASP, operational characterization, section 4: summary, 1st edition, WiSe2021
   - https://youtu.be/YnFjYnSWWW0
+  -
+
+#### Proof-theoretic characterization
+
+#### Solving
