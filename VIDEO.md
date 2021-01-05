@@ -359,5 +359,17 @@
 - ASP, operational characterization, section 3: well-founded operator, 1st edition, WiSe2021
   -
 
+- ASP, operational characterization, blueboard, a: well-founded operator, 1st edition, WiSe2021
+  - https://youtu.be/yTi7Rz0QK_0
+  -
+
+- ASP, operational characterization, blueboard, b: well-founded operator, 1st edition, WiSe2021
+  - https://youtu.be/crDCFR0EvOw
+  -
+
+- ASP, operational characterization, blueboard, c: well-founded operator, 1st edition, WiSe2021
+  -
+-
+
 - ASP, operational characterization, section 4: summary, 1st edition, WiSe2021
   -
