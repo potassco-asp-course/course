@@ -365,7 +365,7 @@
   - https://mediaup.uni-potsdam.de/Play/29336
 
 - ASP, operational characterization, blueboard, b: well-founded operator, 1st edition, WiSe2021
-  - https://youtu.be/crDCFR0EvOw
+  - https://youtu.be/s7b8KS5Y9NY (wrong: https://youtu.be/crDCFR0EvOw)
   - https://mediaup.uni-potsdam.de/Play/29337
 
 - ASP, operational characterization, section 4: summary, 1st edition, WiSe2021
