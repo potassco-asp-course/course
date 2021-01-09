@@ -375,3 +375,30 @@
 #### Proof-theoretic characterization
 
 #### Solving
+
+- play list https://youtube.com/playlist?list=PL7DBaibuDD9NFCpoQWNCvoSdhPE3kdzmM
+
+- yt Answer set solving in practice, solving,
+
+- ASP, solving, section 1: introduction, 1st edition, WiSe2021
+  - https://youtu.be/VNPK8ANqsJw
+  - https://mediaup.uni-potsdam.de/Play/29702
+
+- ASP, solving, section 2: Boolean constraints, 1st edition, WiSe2021
+  -
+  -
+
+- ASP, solving, section 3: nogoods (completion), 1st edition, WiSe2021
+  -
+  -
+- ASP, solving, section 3: nogoods (loop), 1st edition, WiSe2021
+  -
+  -
+
+- ASP, solving, section 4: cdnl (???), 1st edition, WiSe2021
+  -
+  -
+
+- ASP, solving, section 5: summary, 1st edition, WiSe2021
+  -
+  -
