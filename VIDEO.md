@@ -385,8 +385,8 @@
   - https://mediaup.uni-potsdam.de/Play/29702
 
 - ASP, solving, section 2: Boolean constraints, 1st edition, WiSe2021
-  -
-  -
+  - https://youtu.be/FOEbZ3kf0AM
+  - https://mediaup.uni-potsdam.de/Play/29710
 
 - ASP, solving, section 3: nogoods (completion), 1st edition, WiSe2021
   -
