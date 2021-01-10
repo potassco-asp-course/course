@@ -389,7 +389,7 @@
   - https://mediaup.uni-potsdam.de/Play/29710
 
 - ASP, solving, section 3: nogoods (completion), 1st edition, WiSe2021
-  -
+  - https://youtu.be/wRgJDU1kq0E
   -
 
 - ASP, solving, section 3: nogoods (loop), 1st edition, WiSe2021
