@@ -393,8 +393,8 @@
   - https://mediaup.uni-potsdam.de/Play/29752
 
 - ASP, solving, section 3: nogoods (loop), 1st edition, WiSe2021
-  -
-  -
+  - https://youtu.be/0eHc0EoKLcA
+  - https://mediaup.uni-potsdam.de/Play/29920
 
 - ASP, solving, section 4: cdnl (???), 1st edition, WiSe2021
   -
