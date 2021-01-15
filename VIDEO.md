@@ -396,8 +396,17 @@
   - https://youtu.be/0eHc0EoKLcA
   - https://mediaup.uni-potsdam.de/Play/29920
 
-- ASP, solving, section 4: cdnl (???), 1st edition, WiSe2021
+- ASP, solving, section 4: conflict-driven nogood learning (introduction), 1st edition, WiSe2021
+  - https://youtu.be/mZ3Fcxkuyew
+  - https://mediaup.uni-potsdam.de/Play/30202
+
+- ASP, solving, section 4: conflict-driven nogood learning (cdnl), 1st edition, WiSe2021
   -
+
+- ASP, solving, section 4: conflict-driven nogood learning (propagation), 1st edition, WiSe2021
+  -
+
+- ASP, solving, section 4: conflict-driven nogood learning (conflict analysis), 1st edition, WiSe2021
   -
 
 - ASP, solving, section 5: summary, 1st edition, WiSe2021
