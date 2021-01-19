@@ -49,3 +49,6 @@
 [submodule "include/solving"]
 	path = include/solving
 	url = ../solving
+[submodule "include/encoding"]
+	path = include/encoding
+	url = ../encoding
