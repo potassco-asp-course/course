@@ -409,7 +409,8 @@
   - https://mediaup.uni-potsdam.de/Play/30609
 
 - ASP, solving, section 4: conflict-driven nogood learning (propagation), 1st edition, WiSe2021
-  -
+  - https://youtu.be/4Me26WYUPyw
+  - https://mediaup.uni-potsdam.de/Play/30698
 
 - ASP, solving, section 4: conflict-driven nogood learning (conflict analysis), 1st edition, WiSe2021
   -
