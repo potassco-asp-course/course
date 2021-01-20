@@ -406,7 +406,7 @@
 
 - ASP, solving, blueboard: conflict-driven nogood learning (search), 1st edition, WiSe2021
   - https://youtu.be/czfiCJmb8dI
-  -
+  - https://mediaup.uni-potsdam.de/Play/30609
 
 - ASP, solving, section 4: conflict-driven nogood learning (propagation), 1st edition, WiSe2021
   -
@@ -416,7 +416,7 @@
 
 - ASP, solving, blueboard: conflict-driven nogood learning (conflict analysis, resolution), 1st edition, WiSe2021
   - https://youtu.be/Fp0Vq5rfo_k
-  -
+  - https://mediaup.uni-potsdam.de/Play/30615
 
 - ASP, solving, section 5: summary, 1st edition, WiSe2021
   -
