@@ -16,7 +16,7 @@
 \usepackage{tikz}
 \usetikzlibrary{arrows,chains,positioning,automata,decorations,shapes,calc,matrix,fit,backgrounds} % CHECK!!
 % \usepackage{pgfpages}
-% \usepackage{tikz-uml}
+\usepackage{tikz-uml} % tsolving
 
 \usepackage{chessboard}
 \usepackage{weak-constraint-symbol}
@@ -41,6 +41,7 @@
 \input{macros/operators}
 \input{macros/tableau} % REVISE
 \input{macros/listings} % DISTRIBUTE
+\input{macros/modules}
 \input{pifont-macros}
 \input{algorithm-keywords}
 %
@@ -62,8 +63,8 @@
 %solving%
 %
 %encoding%
-%meta%
-msolving%
+meta%
+%msolving%
 %tsolving%
 %hsolving%
 %systems%
@@ -91,13 +92,13 @@ msolving%
 \input{./ocharacterization}
 \input{./pcharacterization}
 \input{./solving}
-%
+% ------------------------------
 \input{./encoding}
 \input{./meta}
 \input{./msolving}
-% \input{./tsolving}
-% \input{./hsolving}
-% \input{./systems}
+\input{./tsolving}
+\input{./hsolving}
+\input{./systems}
 % ------------------------------
 \input{./goodbye}
 % ------------------------------

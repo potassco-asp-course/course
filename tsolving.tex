@@ -1,53 +1,40 @@
 % ----------------------------------------------------------------------
-\lecture{Multi-shot solving}{msolving}
+\lecture{Theory solving}{tsolving}
 % ----------------------------------------------------------------------
-\part{Multi-shot solving}
+\part{Theory solving}
 % ----------------------------------------------------------------------
-\section{Motivation}
+\input{theory-solving/motivation}
+\input{theory-solving/tsolving-process}
+% ----------------------------------------------------------------------
+\section{Theory language}
+% ----------------------------------------------------------------------
+\input{theory-solving/tsolving-process-grounding}
+\input{theory-solving/grammar-linear-constraints}
+\input{theory-solving/send-more-money}
+% ----------------------------------------------------------------------
+\section{Intermediate format}
 % ------------------------------
-\input{multi-shot-solving/motivation}
+\input{theory-solving/aspif}
 % ----------------------------------------------------------------------
-\section{Logic subprograms}
+\section{Theory propagation}
+% ----------------------------------------------------------------------
+\input{theory-solving/tsolving-process-solving}
+\input{systems/architecture-one}
+\input{theory-solving/tpropagation}
+% ----------------------------------------------------------------------
+\section{Exemplars}
+% ----------------------------------------------------------------------
+\subsection{Acyclicity checking}
 % ------------------------------
-\input{multi-shot-solving/program}
-\input{multi-shot-solving/program-example}
+\input{acyclicity}
 % ----------------------------------------------------------------------
-\section{External atoms}
+\subsection{Constraint answer set programming}
 % ------------------------------
-\input{multi-shot-solving/external}
-\input{multi-shot-solving/external-example}
-% ----------------------------------------------------------------------
-\section{Foundations}
-% ----------------------------------------------------------------------
-\subsection{Module composition}
-% ------------------------------
-\input{module-composition}
-% ------------------------------------------------------------
-\subsection{States and operations}
-% ------------------------------
-\input{states-and-operations}
-% ----------------------------------------------------------------------
-\section{Case studies}
-% ----------------------------------------------------------------------
-\subsection{Incremental solving}
-% ------------------------------
-\input{multi-shot-solving/incremental}
-% ----------------------------------------------------------------------
-\subsection{Optimization}
-% ------------------------------
-\input{multi-shot-solving/optimization}
-% ----------------------------------------------------------------------
-\subsection{Planning}
-% ------------------------------
-\input{multi-shot-solving/towers-of-hanoi}
-% ----------------------------------------------------------------------
-\subsection{Board gaming}
-% ------------------------------
-\input{multi-shot-solving/robots}
+\input{casp}
 % ----------------------------------------------------------------------
 \section{Summary}
 % ------------------------------
-\input{multi-shot-solving/summary}
+\input{theory-solving/summary}
 % ----------------------------------------------------------------------
 %
 %%% Local Variables:
