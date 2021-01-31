@@ -26,6 +26,7 @@
 \setlength{\algomargin}{2ex}
 
 \newcommand{\sigmaAUX}{\rho} % FIX
+\newcommand{\tuple}[1]{\ensuremath{\langle #1 \rangle}} % FIX
 
 \usepackage[normalem]{ulem}
 
@@ -42,13 +43,14 @@
 \input{macros/tableau} % REVISE
 \input{macros/listings} % DISTRIBUTE
 \input{macros/modules}
+% \input{macros/ht} % \T conflict
 \input{pifont-macros}
 \input{algorithm-keywords}
 %
 \usepackage{beamer-patch}
 \input{beamer-config}
 % ----------------------------------------------------------------------
-\includeonlylecture{%
+%\includeonlylecture{%
 %organization%
 %motivation%
 %introduction%
@@ -63,13 +65,13 @@
 %solving%
 %
 %encoding%
-meta%
+%meta%
 %msolving%
 %tsolving%
 %hsolving%
 %systems%
 %preferences%
-,goodbye,bibliography}
+%,goodbye,bibliography}
 % ----------------------------------------------------------------------
 \begin{document}
 % ----------------------------------------------------------------------
@@ -95,10 +97,10 @@ meta%
 % ------------------------------
 \input{./encoding}
 \input{./meta}
-\input{./msolving}
-\input{./tsolving}
-\input{./hsolving}
-\input{./systems}
+% \input{./msolving}
+% \input{./tsolving}
+% \input{./hsolving}
+% \input{./systems}
 % ------------------------------
 \input{./goodbye}
 % ------------------------------
