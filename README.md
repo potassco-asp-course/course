@@ -5,7 +5,7 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
 ## Structure
 
 - mostly implemented by LaTeX' `\part` and `\section` commands
-- separate slides with `% ` following by 70 `-`
+- separate slides with `% ` followed by 70 `-`
 
 ## Logic
 
@@ -14,6 +14,13 @@ The main repository integrating the LaTeX beamer-based slides for a MSc class on
 ## Style
 
 - use `itemize` environments with `\structure{}` (rather than `description` environment)
+
+## Installation
+
+1. Clone main repository `git@github.com:potassco-asp-course/course.git`
+2. Go to course `cd course`
+3. Retrieve submodules `git submodule update --init --recursive`
+4. Run `latexmk main.tex`
 
 ## Production
 
