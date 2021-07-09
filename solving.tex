@@ -1,52 +1,54 @@
 % ----------------------------------------------------------------------
-\lecture{Motivation}{motivation}
-% ------------------------------
-\part{Motivation}
+\lecture{Solving}{solving}
+% ----------------------------------------------------------------------
+\part{Solving}
 % ----------------------------------------------------------------------
 \section{Motivation}
 % ------------------------------
-\input{motivation/diagram}
-\input{motivation/benefits}
+\input{solving/motivation}
 % ----------------------------------------------------------------------
-\section{Nutshell}
+\section{Boolean constraints}
 % ------------------------------
-\input{motivation/asp}
+\input{solving/preliminaries}
 % ------------------------------
-% \input{motivation/nutshell}      % OLD MATERIAL
-% \input{motivation/hazelnutshell} % OLD MATERIAL
-% ------------------------------
-% \input{time} % <<<<<<<<<
+\input{solving/boolean-constraints}
 % ----------------------------------------------------------------------
-\section{Evolution}
-% ------------------------------
-\input{motivation/moments}
-% \input{motivation/moments-details}
-% ------------------------------
-\input{motivation/paradigms-one}
-% \input{motivation/paradigms}
+\section{Nogoods from logic programs}
 % ----------------------------------------------------------------------
-\section{Foundation}
-% ------------------------------
-\input{motivation/logic-programs-one}
-% \input{introduction/tabling}
-% \input{introduction/foundations}
+\input{solving/cdefinitions}
 % ----------------------------------------------------------------------
-\section{Workflow}
+\subsection{Nogoods from completion formulas}
 % ------------------------------
-\input{motivation/workflow}
-% \input{motivation/workflow-sat}
+\input{solving/nogoods-completion}
+% \input{solving/nogoods-completion-tableau-rules}
 % ----------------------------------------------------------------------
-\section{Engine}
+\subsection{Nogoods from loop formulas}
 % ------------------------------
-\input{systems/architecture-one}
+\input{solving/nogoods-loop}
 % ----------------------------------------------------------------------
-\section{Usage}
+\section{Conflict-driven nogood learning}
+% ----------------------------------------------------------------------
+\input{solving/adefinitions}
 % ------------------------------
-\input{motivation/usage}
+\input{solving/cdcl-motivation}
+\input{solving/dpll}
+\input{solving/cdcl}
+% ----------------------------------------------------------------------
+\subsection{CDNL algorithm}
+% ------------------------------
+\input{solving/cdnl-asp-algorithm}
+% ----------------------------------------------------------------------
+\subsection{Nogood propagation}
+% ------------------------------
+\input{solving/nogood-propagation}
+% ----------------------------------------------------------------------
+\subsection{Conflict analysis}
+% ------------------------------
+\input{solving/conflict-analysis}
 % ----------------------------------------------------------------------
 \section{Summary}
 % ------------------------------
-\input{motivation/summary}
+\input{solving/summary}
 % ----------------------------------------------------------------------
 %
 %%% Local Variables:

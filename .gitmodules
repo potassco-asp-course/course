@@ -37,6 +37,21 @@
 [submodule "include/computation"]
 	path = include/computation
 	url = ../computation
+[submodule "include/axiomatic-characterization"]
+	path = include/axiomatic-characterization
+	url = ../axiomatic-characterization
+[submodule "include/operational-characterization"]
+	path = include/operational-characterization
+	url = ../operational-characterization
+[submodule "include/proof-theoretic-characterization"]
+	path = include/proof-theoretic-characterization
+	url = ../proof-theoretic-characterization
+[submodule "include/solving"]
+	path = include/solving
+	url = ../solving
+[submodule "include/encoding"]
+	path = include/encoding
+	url = ../encoding
 [submodule "include/meta-encoding"]
 	path = include/meta-encoding
 	url = ../meta-encoding
