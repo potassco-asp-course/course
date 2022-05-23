@@ -64,3 +64,6 @@
 [submodule "include/heuristic-driven-solving"]
 	path = include/heuristic-driven-solving
 	url = ../heuristic-driven-solving
+[submodule "include/controlling"]
+	path = include/controlling
+	url = ../controlling
