@@ -16,7 +16,7 @@
 \usepackage{tikz}
 \usetikzlibrary{arrows,chains,positioning,automata,decorations,shapes,calc,matrix,fit,backgrounds} % CHECK!!
 % \usepackage{pgfpages}
-% \usepackage{tikz-uml}
+\usepackage{tikz-uml} % tsolving
 
 \usepackage{chessboard}
 \usepackage{weak-constraint-symbol}
@@ -26,6 +26,7 @@
 \setlength{\algomargin}{2ex}
 
 \newcommand{\sigmaAUX}{\rho} % FIX
+\newcommand{\tuple}[1]{\ensuremath{\langle #1 \rangle}} % FIX
 
 \usepackage[normalem]{ulem}
 
@@ -40,13 +41,16 @@
 \input{macros/grounding}
 \input{macros/operators}
 \input{macros/tableau} % REVISE
+\input{macros/listings} % DISTRIBUTE
+\input{macros/modules}
+% \input{macros/ht} % \T conflict
 \input{pifont-macros}
 \input{algorithm-keywords}
 %
 \usepackage{beamer-patch}
 \input{beamer-config}
 % ----------------------------------------------------------------------
-\includeonlylecture{%
+%\includeonlylecture{%
 %organization%
 %motivation%
 %introduction%
@@ -55,17 +59,19 @@
 %extensions%
 %grounding%
 %computation%
-%acharacterization,%
+%acharacterization%
 %ocharacterization%
 %pcharacterization%
 %solving%
-encoding%
+%
+%encoding%
+%meta%
 %msolving%
 %tsolving%
 %hsolving%
 %systems%
 %preferences%
-,goodbye,bibliography}
+%,goodbye,bibliography}
 % ----------------------------------------------------------------------
 \begin{document}
 % ----------------------------------------------------------------------
@@ -88,7 +94,13 @@ encoding%
 \input{./ocharacterization}
 \input{./pcharacterization}
 \input{./solving}
+% ------------------------------
 \input{./encoding}
+\input{./meta}
+\input{./msolving}
+\input{./tsolving}
+\input{./hsolving}
+% \input{./systems}
 % ------------------------------
 \input{./goodbye}
 % ------------------------------

@@ -11,9 +11,12 @@ $interaction = "nonstopmode";
 $ENV{"TEXMFHOME"} = "?";
 
 # Reset all search paths
-$ENV{"BIBINPUTS"} = "./include//:";
-$ENV{"BSTINPUTS"} = "./include//:";
-$ENV{"TEXINPUTS"} = "./include//:";
+delete $ENV{'BIBINPUTS'};
+delete $ENV{'BSTINPUTS'};
+delete $ENV{'TEXINPUTS'};
+ensure_path('BIBINPUTS', './include//');
+ensure_path('BSTINPUTS', './include//');
+ensure_path('TEXINPUTS', './include//');
 
 # Remove beamer generated files
 $clean_ext = "nav out snm";
