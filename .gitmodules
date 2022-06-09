@@ -67,3 +67,9 @@
 [submodule "include/controlling"]
 	path = include/controlling
 	url = ../controlling
+[submodule "include/dynamic-asp"]
+	path = include/dynamic-asp
+	url = ../dynamic-asp
+[submodule "include/hybrid-asp"]
+	path = include/hybrid-asp
+	url = ../hybrid-asp
