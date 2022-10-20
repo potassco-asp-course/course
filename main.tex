@@ -26,7 +26,6 @@
 \setlength{\algomargin}{2ex}
 
 \newcommand{\sigmaAUX}{\rho} % FIX
-\newcommand{\tuple}[1]{\ensuremath{\langle #1 \rangle}} % FIX
 
 \usepackage[normalem]{ulem}
 
@@ -43,15 +42,15 @@
 \input{macros/tableau} % REVISE
 \input{macros/listings} % DISTRIBUTE
 \input{macros/modules}
-% \input{macros/ht} % \T conflict
+\input{macros/ht}
 \input{pifont-macros}
 \input{algorithm-keywords}
 %
 \usepackage{beamer-patch}
 \input{beamer-config}
 % ----------------------------------------------------------------------
-%\includeonlylecture{%
-%organization%
+\includeonlylecture{%
+administration,organization%
 %motivation%
 %introduction%
 %modeling%
@@ -72,7 +71,7 @@
 %hsolving%
 %systems%
 %preferences%
-%,goodbye,bibliography}
+,goodbye,bibliography}
 % ----------------------------------------------------------------------
 \begin{document}
 % ----------------------------------------------------------------------
@@ -81,7 +80,7 @@
 \pgfdeclareimage[height=0.5cm]{potasscologo}{potassco_logo_lightblue}
 \logo{\pgfuseimage{potasscologo}}
 % ----------------------------------------------------------------------
-% \input{./administration}
+\input{./administration}
 \input{./organization}
 % ------------------------------
 \input{./motivation}
