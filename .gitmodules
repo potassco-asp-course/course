@@ -1,6 +1,6 @@
 [submodule "include/motivation"]
 	path = include/motivation
-	url = ../motivation
+	url = ../../potassco-asp-course/motivation
 [submodule "include/logos"]
 	path = include/logos
 	url = ../../krr-up/logos.git
@@ -12,64 +12,64 @@
 	url = ../../krr-up/asp-macros.git
 [submodule "include/organization"]
 	path = include/organization
-	url = ../organization
+	url = ../../potassco-asp-course/organization
 [submodule "include/administration"]
 	path = include/administration
-	url = ../administration
+	url = ../../potassco-asp-course/administration
 [submodule "include/systems"]
 	path = include/systems
-	url = ../systems
+	url = ../../potassco-asp-course/systems
 [submodule "include/introduction"]
 	path = include/introduction
-	url = ../introduction
+	url = ../../potassco-asp-course/introduction
 [submodule "include/modeling"]
 	path = include/modeling
-	url = ../modeling
+	url = ../../potassco-asp-course/modeling
 [submodule "include/language"]
 	path = include/language
-	url = ../language
+	url = ../../potassco-asp-course/language
 [submodule "include/extensions"]
 	path = include/extensions
-	url = ../extensions
+	url = ../../potassco-asp-course/extensions
 [submodule "include/grounding"]
 	path = include/grounding
-	url = ../grounding
+	url = ../../potassco-asp-course/grounding
 [submodule "include/computation"]
 	path = include/computation
-	url = ../computation
+	url = ../../potassco-asp-course/computation
 [submodule "include/axiomatic-characterization"]
 	path = include/axiomatic-characterization
-	url = ../axiomatic-characterization
+	url = ../../potassco-asp-course/axiomatic-characterization
 [submodule "include/operational-characterization"]
 	path = include/operational-characterization
-	url = ../operational-characterization
+	url = ../../potassco-asp-course/operational-characterization
 [submodule "include/proof-theoretic-characterization"]
 	path = include/proof-theoretic-characterization
-	url = ../proof-theoretic-characterization
+	url = ../../potassco-asp-course/proof-theoretic-characterization
 [submodule "include/solving"]
 	path = include/solving
-	url = ../solving
+	url = ../../potassco-asp-course/solving
 [submodule "include/encoding"]
 	path = include/encoding
-	url = ../encoding
+	url = ../../potassco-asp-course/encoding
 [submodule "include/meta-encoding"]
 	path = include/meta-encoding
-	url = ../meta-encoding
+	url = ../../potassco-asp-course/meta-encoding
 [submodule "include/multi-shot-solving"]
 	path = include/multi-shot-solving
-	url = ../multi-shot-solving
+	url = ../../potassco-asp-course/multi-shot-solving
 [submodule "include/theory-solving"]
 	path = include/theory-solving
-	url = ../theory-solving
+	url = ../../potassco-asp-course/theory-solving
 [submodule "include/heuristic-driven-solving"]
 	path = include/heuristic-driven-solving
-	url = ../heuristic-driven-solving
+	url = ../../potassco-asp-course/heuristic-driven-solving
 [submodule "include/controlling"]
 	path = include/controlling
-	url = ../controlling
+	url = ../../potassco-asp-course/controlling
 [submodule "include/dynamic-asp"]
 	path = include/dynamic-asp
-	url = ../dynamic-asp
+	url = ../../potassco-asp-course/dynamic-asp
 [submodule "include/hybrid-asp"]
 	path = include/hybrid-asp
-	url = ../hybrid-asp
+	url = ../../potassco-asp-course/hybrid-asp
