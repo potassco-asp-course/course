@@ -3,13 +3,13 @@
 	url = ../motivation
 [submodule "include/logos"]
 	path = include/logos
-	url = https://github.com/krr-up/logos.git
+	url = ../../krr-up/logos.git
 [submodule "include/bibliography"]
 	path = include/bibliography
-	url = https://github.com/krr-up/bibliography.git
+	url = ../../krr-up/bibliography.git
 [submodule "include/macros"]
 	path = include/macros
-	url = https://github.com/krr-up/asp-macros.git
+	url = ../../krr-up/asp-macros.git
 [submodule "include/organization"]
 	path = include/organization
 	url = ../organization
