@@ -73,3 +73,9 @@
 [submodule "include/hybrid-asp"]
 	path = include/hybrid-asp
 	url = ../../potassco-asp-course/hybrid-asp
+[submodule "include/configuration"]
+	path = include/configuration
+	url = ../../potassco-asp-course/configuration
+[submodule "include/planning"]
+	path = include/planning
+	url = ../../potassco-asp-course/planning
