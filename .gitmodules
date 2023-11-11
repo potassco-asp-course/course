@@ -79,3 +79,6 @@
 [submodule "include/planning"]
 	path = include/planning
 	url = ../../potassco-asp-course/planning
+[submodule "include/preferences"]
+	path = include/preferences
+	url = ../../potassco-asp-course/preferences
