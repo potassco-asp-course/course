@@ -3,13 +3,13 @@
 	url = ../../potassco-asp-course/motivation
 [submodule "include/logos"]
 	path = include/logos
-	url = ../../krr-up/logos.git
+	url = ../../krr-up/logos
 [submodule "include/bibliography"]
 	path = include/bibliography
-	url = ../../krr-up/bibliography.git
+	url = ../../krr-up/bibliography
 [submodule "include/macros"]
 	path = include/macros
-	url = ../../krr-up/asp-macros.git
+	url = ../../krr-up/asp-macros
 [submodule "include/organization"]
 	path = include/organization
 	url = ../../potassco-asp-course/organization
