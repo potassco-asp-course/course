@@ -1,0 +1,7 @@
+* msolving
+  - inc: give hanoi or make new
+  - opt: use same example
+  - inc: increasing horizon
+  - opt: decreasing horizon
+* tsolving
+  - add decide with v 5.6
