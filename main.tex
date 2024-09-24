@@ -39,7 +39,7 @@
 % ----------------------------------------------------------------------
 \input{macros/syntax}
 \input{macros/semantics}
-\input{macros/logics}
+\input{macros/logics}\renewcommand{\logfont}{\textsf}
 \input{macros/nogoods}
 \input{macros/systems}
 \input{macros/grounding}
@@ -54,7 +54,7 @@
 \usepackage{beamer-patch}
 \input{beamer-config}
 % ----------------------------------------------------------------------
-\includeonlylecture{%
+%\includeonlylecture{%
 %administration%
 %organization%
 %motivation%
@@ -68,18 +68,17 @@
 %ocharacterization%
 %pcharacterization%
 %solving%
-%
 %encoding%
 %meta%
 %controlling%
 %msolving%
 %tsolving%
 %hsolving%
-systems%
+%systems%
 %planning%
 %configuration%
 %preferences%
-,goodbye,bibliography}
+%,goodbye,bibliography}
 % ----------------------------------------------------------------------
 \begin{document}
 % ----------------------------------------------------------------------
@@ -104,17 +103,18 @@ systems%
 \input{./solving}
 % ------------------------------
 \input{./encoding}
+% ------------------------------
 \input{./meta}
 \input{./controlling}
 \input{./msolving}
 \input{./tsolving}
 \input{./hsolving}
 % ------------------------------
+\input{./systems}
+% ------------------------------
 % \input{./dynamics}
 % \input{./hybrids}
 % \input{./preferences}
-% ------------------------------
-\input{./systems}
 % ------------------------------
 % \input{./planning}
 % \input{./configuration}
