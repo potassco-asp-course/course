@@ -82,3 +82,9 @@
 [submodule "include/preferences"]
 	path = include/preferences
 	url = ../../potassco-asp-course/preferences
+[submodule "include/interaction"]
+	path = include/interaction
+	url = ../../potassco-asp-course/interaction
+[submodule "include/visualization"]
+	path = include/visualization
+	url = ../../potassco-asp-course/visualization
