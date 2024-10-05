@@ -45,7 +45,7 @@
 \input{macros/grounding}
 \input{macros/operators}
 \input{macros/tableau} % REVISE
-\input{macros/listings} % DISTRIBUTE
+\input{macros/listings}\lstdefinelanguage{clingos}{language=clingo,basicstyle=\small\ttfamily} % DISTRIBUTE
 \input{macros/modules}
 \input{macros/ht}
 \input{pifont-macros}
@@ -75,15 +75,17 @@
 %tsolving%
 %hsolving%
 %systems%
+%visualization%
+%interaction%
+%dynamics%
+%hybrids%
+%preferences%
 %planning%
 %configuration%
 %preferences%
 %,goodbye,bibliography}
 % ----------------------------------------------------------------------
 \begin{document}
-\input{./visualization}
-\input{./interaction}
-\end{document}
 % ----------------------------------------------------------------------
 \input{frontpage}
 % ------------------------------
@@ -114,6 +116,9 @@
 \input{./hsolving}
 % ------------------------------
 \input{./systems}
+% ------------------------------
+\input{./visualization}
+\input{./interaction}
 % ------------------------------
 % \input{./dynamics}
 % \input{./hybrids}
